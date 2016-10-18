@@ -29,6 +29,7 @@ Bages i ovnen ved 200 grader C. alm. ovn i 30 minutter.
     * 1		Bouillonterning
     * Salt
     * Peber
+	* Msuaktnød
 
 * Hvid sauce:
     * 30	gram	Margarine
